@@ -1,0 +1,25 @@
+_repo: Miss-Sarah-Jack-of-Spanish-Town-Jamaica_3699
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Jamaica -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Courtship -- Fiction'
+title: Miss Sarah Jack of Spanish Town, Jamaica
+url: http://www.gutenberg.org/ebooks/3699
